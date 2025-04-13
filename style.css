@@ -926,12 +926,12 @@ textarea {
         align-items: center;
 
     }
-    contact-logo{
+    .contact-logo{
 
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 100px;
+        width: 80px;
     }
     
 }
